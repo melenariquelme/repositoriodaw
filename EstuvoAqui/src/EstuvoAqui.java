@@ -12,6 +12,8 @@ public class EstuvoAqui {
 		System.out.println("JM ya estuvo aquí dos veces\n");
 
 		System.out.println("JM ya estuvo aquí tresveces\n");
+		
+		System.out.println("IGC estuve aqu�\n");
 
 	}
 
