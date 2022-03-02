@@ -15,6 +15,9 @@ public class EstuvoAqui {
 		
 		System.out.println("IGC estuve aquí\n");
 
+		System.out.println("MDGC estuvo aquï¿½\n");
+
+
 	}
 
 }
